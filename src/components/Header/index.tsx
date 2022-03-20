@@ -12,6 +12,7 @@ const Header = () => {
         </div>
         <nav>
           <a>Entrar</a>
+          <a>Cadastrar</a>
         </nav>
       </div>
     </header>
